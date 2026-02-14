@@ -1,0 +1,11 @@
+Что изучить: 
+
+
+0. Json, XML
+1. https://habr.com/ru/companies/otus/articles/588923/?ysclid=mlc00e4878156945514
+2. Swagger
+3. Postman,Insomnia,Bruno(https://tproger.ru/articles/gajd-po-rabote-s-postman)
+4. https://metanit.com/
+5. https://tproger.ru/translations/http-api-design-guide
+6. https://habr.com/ru/companies/surfstudio/articles/973304/?ysclid=mlbzrvqndj761063971
+7. https://ru.hexlet.io/blog/posts/test-dizayn-v-testirovanii-chto-eto-takoe?ysclid=mlc0qqj172952213680
